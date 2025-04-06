@@ -1,0 +1,4 @@
+(executable
+ (public_name webserver)
+ (name main)
+ (libraries webserver))
